@@ -1,2 +1,2 @@
 FROM hshar/webapp
-COPY ./devopsIQ /var/www/html/devopsIQ
+ADD ./devopsIQ /var/www/html/devopsIQ
